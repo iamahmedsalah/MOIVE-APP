@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="text-2xl font-bold bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent mb-4">
-              CineMax
+              Moives App
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Your ultimate destination for movies, TV shows, and entertainment news. Stream the latest releases and discover hidden gems.
