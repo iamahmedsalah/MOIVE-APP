@@ -140,7 +140,7 @@ export const Newsletter: React.FC = () => {
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-white via-red-200 to-red-400 bg-clip-text text-transparent mb-6">
-              CineMax Newsletter
+              Movies App Newsletter
             </h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
               Stay updated with the latest news, movie releases, TV show premieres, and exclusive behind-the-scenes content from the entertainment world.
