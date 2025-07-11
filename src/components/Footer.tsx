@@ -78,7 +78,7 @@ export const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-8 text-center">
             <p className="text-gray-400">
-              © 2024 CineMax. All rights reserved.
+              © 2024 Movies App. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200 text-sm">
